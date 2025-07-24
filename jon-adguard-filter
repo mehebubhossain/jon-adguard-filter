@@ -1,10 +1,11 @@
 ||aet.spotify.com^
 ||audio-ads.spotifycdn.com^
-||youtubei.googleapis.com^
 ||www-google-analytics.l.google.com^
-||s.youtube.com^
 ||ad.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||googleads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
-||yt3.ggpht.com^
+
+@@||youtubei.googleapis.com^
+@@||s.youtube.com^
+@@||yt3.ggpht.com^
